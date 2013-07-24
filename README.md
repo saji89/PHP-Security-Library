@@ -32,7 +32,7 @@ $data = Randomizer::getRandomBytes(32); // 32 bytes.
 $randomFloat = Randomizer::getRandomFloat();
 ```
 
-Things like [random float generation](https://github.com/kaisellgren/PHP-Security-Library/blob/master/Security/Randomizer.php#L108) is more conplex than what it might seem initially and therefore it's nice to be able to use a library for that.
+Things like [random float generation](https://github.com/kaisellgren/PHP-Security-Library/blob/master/Security/Randomizer.php#L108) is more complex than what it might seem initially and therefore it's nice to be able to use a library for that.
 
 ##### Generate a certificate.
 
